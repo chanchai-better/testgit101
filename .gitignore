@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore all files in folder_name
+test/*
+
+# Except the .gitkeep file
+!test/.gitkeep
